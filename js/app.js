@@ -95,7 +95,7 @@ function remove(i) {
     
     allUpdate.splice (i,1);
     all = allUpdate;
-    console.log ('hi');
+
     setData();
     render();
   }
